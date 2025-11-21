@@ -30,12 +30,9 @@ Evaluation: accuracy, confusion matrix, classification report
 
 Final prediction pipeline
 
-Exported model (if added)
+
 
 🚀 How to Run
-pip install -r requirements.txt
-jupyter notebook
-
 
 Open the notebook Rainfall Prediction Classifier.ipynb and run all cells.
 
