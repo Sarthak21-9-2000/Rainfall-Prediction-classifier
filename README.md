@@ -12,9 +12,9 @@ It demonstrates practical ML skills that are resume-worthy and recruiter-friendl
 
 Python, NumPy, Pandas
 
-Scikit-learn (Logistic Regression / Random Forest / XGBoost if used)
+Scikit-learn (Logistic Regression / Random Forest)
 
-Matplotlib / Seaborn (for EDA visualizations)
+Matplotlib / Seaborn
 
 Jupyter Notebook
 
